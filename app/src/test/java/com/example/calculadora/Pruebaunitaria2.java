@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class Pruebaunitaria2 extends TestCase {
 @Test
-    public void testRESTA() {assertEquals(25,37-12);
+    public void testRESTA() {assertEquals(25,50-12);
     }
 
 
